@@ -1,0 +1,55 @@
+﻿@model IEnumerable<FiberConnection.FiberConnection.Status>
+
+@{
+    ViewData["Title"] = "StatusList";
+}
+
+<h1 class="text-danger">StatusList</h1>
+
+<table class="table border-danger" >
+    <thead class="text-danger">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PlanName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlanPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status1)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody class="text-light">
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlanName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlanPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmployeeName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status1)
+            </td>
+            <td>
+                <a class="btn btn-outline-danger" asp-action="StatusDetails" asp-route-id="@item.StatusId">Details</a> |
+                <a class="btn btn-outline-danger" asp-action="StatusCancel" asp-route-id="@item.StatusId">Cancel</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

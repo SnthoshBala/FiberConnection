@@ -1,0 +1,52 @@
+﻿@model FiberConnection.FiberConnection.Status
+
+@{
+    ViewData["Title"] = "StatusCancel";
+}
+
+<style>
+    .c1 {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+</style>
+
+<h3 class="text-danger">Are you sure you want to cancel the Booking?</h3>
+<h2 class="text-light">CustomerLogin</h2>
+
+<hr class="bg-danger" />
+<div class="container c1">
+    <div class="row">
+        <div class="col c1">
+            <div class="card text-white border-danger bg-dark c1" style="width: 30rem;">
+                <div class="card-body text-center">
+                    <div class="card-header text-danger text-center">Access Control</div>
+                    <div class="text-center text-danger">
+                        Name : <span class="text-light">@Html.DisplayFor(model => model.CustomerName)</span>
+                    </div>
+                    <br />
+                    <div class="text-center text-danger">
+                        Plan : <span class="text-light">@Html.DisplayFor(model => model.PlanName)</span>
+                    </div>
+                    <br />
+                    <div class="text-center text-danger">
+                        Plan Price : <span class="text-light">@Html.DisplayFor(model => model.PlanPrice)</span>
+                    </div>
+                    <br />
+                    <div class="text-center text-danger">
+                        Status : <span class="text-light">@Html.DisplayFor(model => model.Status1)</span>
+                    </div>
+                    <br />
+
+
+                        <form asp-action="StatusCancel" class="c1">
+                            <input type="hidden" asp-for="StatusId" />
+                            <input type="submit" value="Delete" class="btn btn-danger" /> |
+                            <a asp-action="StatusList" class="btn btn-danger">Back</a>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

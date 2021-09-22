@@ -1,0 +1,45 @@
+﻿@model FiberConnection.FiberConnection.Customer
+
+@{
+    ViewData["Title"] = "CustomerLogin";
+}
+<style>
+    .c1 {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+</style>
+
+<h2 class="text-light">CustomerLogin</h2>
+
+<hr class="bg-danger" />
+<div class="card border-light bg-danger mb-3 c1" style="max-width: 30rem;">
+    <div class="card-body text-danger">
+        <div class="card-header text-light">Sign Up</div>
+        <div class="row">
+            <div class="col-md-10">
+                <form asp-action="CustomerLogin">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <div class="form-group">
+                        <label asp-for="CustomerMailId" class="control-label text-dark">Mail Id</label>
+                        <input asp-for="CustomerMailId" class="form-control" required/>
+                        <span asp-validation-for="CustomerMailId" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="CustomerPassword" class="control-label text-dark">Password</label>
+                        <input asp-for="CustomerPassword" type="password" class="form-control" required/>
+                        <span asp-validation-for="CustomerPassword" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <input type="submit" value="Login" class="btn  btn-dark btn-outline-danger" />
+                    </div>
+                </form>
+            </div>
+        </div>
+        </div>
+    </div>
+
+        @section Scripts {
+            @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+        }

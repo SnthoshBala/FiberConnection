@@ -1,0 +1,603 @@
+INFO  11:19:54 Application started. Press Ctrl+C to shut down.
+INFO  11:19:54 Application started. Press Ctrl+C to shut down.
+INFO  11:19:54 Hosting environment: Development
+INFO  11:19:54 Hosting environment: Development
+INFO  11:19:54 Content root path: D:\Fiber\FiberConnection
+INFO  11:19:54 Content root path: D:\Fiber\FiberConnection
+INFO  12:10:07 Application started. Press Ctrl+C to shut down.
+INFO  12:10:07 Application started. Press Ctrl+C to shut down.
+INFO  12:10:07 Hosting environment: Development
+INFO  12:10:07 Hosting environment: Development
+INFO  12:10:07 Content root path: D:\Fiber\FiberConnection
+INFO  12:10:07 Content root path: D:\Fiber\FiberConnection
+INFO  12:10:07 Plan Details are Called
+INFO  12:10:19 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  12:10:19 Plan Details are Called
+INFO  12:10:22 Billing the Customer BALASUBRAMANIYAN R with Basic of Rs 499
+INFO  12:10:22 Getting Billing Details of BALASUBRAMANIYAN R
+INFO  12:10:24 Connection for the BALASUBRAMANIYAN R Booked of Rs 524
+INFO  12:10:24 Plan Details are Called
+INFO  12:10:27  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  12:10:30 Getting the Status of 1905
+INFO  12:10:32  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  12:10:32 Request Canceling the Status of 1905
+INFO  12:10:34 Canceling the Status of 1905
+INFO  12:10:34  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  12:10:40 BALASUBRAMANIYAN R has been Logged Out
+INFO  12:10:40 Plan Details are Called
+INFO  11:42:54 Application started. Press Ctrl+C to shut down.
+INFO  11:42:54 Application started. Press Ctrl+C to shut down.
+INFO  11:42:54 Hosting environment: Development
+INFO  11:42:54 Hosting environment: Development
+INFO  11:42:54 Content root path: D:\Fiber\FiberConnection
+INFO  11:42:54 Content root path: D:\Fiber\FiberConnection
+INFO  11:42:54 Plan Details are Called
+INFO  11:43:12 Plan Details are Called
+INFO  11:47:16 Registering Customer with the name Shruthi Shree J S
+INFO  11:48:16 Application started. Press Ctrl+C to shut down.
+INFO  11:48:16 Application started. Press Ctrl+C to shut down.
+INFO  11:48:16 Hosting environment: Development
+INFO  11:48:16 Hosting environment: Development
+INFO  11:48:16 Content root path: D:\Fiber\FiberConnection
+INFO  11:48:16 Content root path: D:\Fiber\FiberConnection
+INFO  11:48:16 Plan Details are Called
+INFO  11:48:54 Registering Customer with the name Shruthi Shree J S
+INFO  11:48:57 Plan Details are Called
+INFO  11:49:13 Shruthi Shree J S with the id 103 has been Logged In
+INFO  11:49:13 Plan Details are Called
+INFO  11:49:18  Status of Connection as been shown for Shruthi Shree J S
+INFO  11:49:23  Status of Connection as been shown for Shruthi Shree J S
+INFO  11:49:30 Shruthi Shree J S has been Logged Out
+INFO  11:49:30 Plan Details are Called
+INFO  11:49:34 Plan Details are Called
+INFO  11:49:45 Shruthi Shree J S with the id 103 has been Logged In
+INFO  11:49:45 Plan Details are Called
+INFO  11:49:51 Shruthi Shree J S has been Logged Out
+INFO  11:49:51 Plan Details are Called
+INFO  11:49:58 Shruthi Shree J S with the id 103 has been Logged In
+INFO  11:49:58 Plan Details are Called
+INFO  11:50:01 Billing the Customer Shruthi Shree J S with Basic of Rs 499
+INFO  11:50:01 Getting Billing Details of Shruthi Shree J S
+INFO  11:50:41 Connection for the Shruthi Shree J S Booked of Rs 524
+INFO  11:50:41 Plan Details are Called
+INFO  11:50:44  Status of Connection as been shown for Shruthi Shree J S
+INFO  11:50:46 Getting the Status of 1906
+INFO  11:50:58  Status of Connection as been shown for Shruthi Shree J S
+INFO  11:51:01 Request Canceling the Status of 1906
+INFO  11:51:06  Status of Connection as been shown for Shruthi Shree J S
+INFO  11:51:07 Request Canceling the Status of 1906
+INFO  11:51:08 Canceling the Status of 1906
+INFO  11:51:08  Status of Connection as been shown for Shruthi Shree J S
+INFO  11:51:11 Plan Details are Called
+INFO  11:51:22 Admin has Taken Control 
+INFO  11:51:56 New plan is Added with the name Papu and 505
+INFO  11:51:56 Plan Details are Called
+INFO  11:51:59 Offer Details of 201 is called
+INFO  11:52:03 Plan Details are Called
+INFO  11:52:05 Offer Details of 200 is called
+INFO  11:52:10 Plan Details are Called
+INFO  11:52:12 Offer Details of 200 is called
+INFO  11:52:13 Plan Details are Called
+INFO  11:52:15 Offer Details of 201 is called
+INFO  11:52:19 Plan Details are Called
+INFO  11:52:26  Status of Connection as been shown for Shruthi Shree J S
+INFO  03:58:48 Application started. Press Ctrl+C to shut down.
+INFO  03:58:48 Application started. Press Ctrl+C to shut down.
+INFO  03:58:48 Hosting environment: Development
+INFO  03:58:48 Hosting environment: Development
+INFO  03:58:48 Content root path: D:\Fiber\FiberConnection
+INFO  03:58:48 Content root path: D:\Fiber\FiberConnection
+INFO  03:58:49 Plan Details are Called
+INFO  03:59:06 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  03:59:06 Plan Details are Called
+INFO  03:59:14 BALASUBRAMANIYAN R has been Logged Out
+INFO  03:59:14 Plan Details are Called
+INFO  03:59:16 Admin has Taken Control 
+INFO  03:59:30 Admin has Taken Control 
+INFO  03:59:38 Admin has Taken Control 
+INFO  03:59:56 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  03:59:56 Plan Details are Called
+INFO  08:25:04 Application started. Press Ctrl+C to shut down.
+INFO  08:25:04 Application started. Press Ctrl+C to shut down.
+INFO  08:25:04 Hosting environment: Development
+INFO  08:25:04 Hosting environment: Development
+INFO  08:25:04 Content root path: D:\Fiber\FiberConnection
+INFO  08:25:04 Content root path: D:\Fiber\FiberConnection
+INFO  08:25:05 Plan Details are Called
+INFO  08:26:34 Application started. Press Ctrl+C to shut down.
+INFO  08:26:34 Application started. Press Ctrl+C to shut down.
+INFO  08:26:34 Hosting environment: Development
+INFO  08:26:34 Hosting environment: Development
+INFO  08:26:34 Content root path: D:\Fiber\FiberConnection
+INFO  08:26:34 Content root path: D:\Fiber\FiberConnection
+INFO  08:26:34 Plan Details are Called
+INFO  08:27:02 Admin has Taken Control 
+ERROR 08:27:03 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at FiberConnection.FiberConnection.FiberPlan.GetFiberPlans() in D:\Fiber\FiberConnection\FiberConnection\FiberPlan.cs:line 42
+   at FiberConnection.Repository.FiberPlanRepo.GetFiberPlans() in D:\Fiber\FiberConnection\Repository\FiberPlanRepo.cs:line 23
+   at FiberConnection.Service.FiberPlanServ.GetFiberPlans() in D:\Fiber\FiberConnection\Service\FiberPlanServ.cs:line 24
+   at FiberConnection.Controllers.FiberController.PlanDetails() in D:\Fiber\FiberConnection\Controllers\FiberController.cs:line 24
+   at lambda_method1(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 08:27:03 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at FiberConnection.FiberConnection.FiberPlan.GetFiberPlans() in D:\Fiber\FiberConnection\FiberConnection\FiberPlan.cs:line 42
+   at FiberConnection.Repository.FiberPlanRepo.GetFiberPlans() in D:\Fiber\FiberConnection\Repository\FiberPlanRepo.cs:line 23
+   at FiberConnection.Service.FiberPlanServ.GetFiberPlans() in D:\Fiber\FiberConnection\Service\FiberPlanServ.cs:line 24
+   at FiberConnection.Controllers.FiberController.PlanDetails() in D:\Fiber\FiberConnection\Controllers\FiberController.cs:line 24
+   at lambda_method1(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 08:27:08 An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+ERROR 08:27:08 An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+INFO  09:17:17 Application started. Press Ctrl+C to shut down.
+INFO  09:17:17 Application started. Press Ctrl+C to shut down.
+INFO  09:17:17 Hosting environment: Development
+INFO  09:17:17 Hosting environment: Development
+INFO  09:17:17 Content root path: D:\Fiber\FiberConnection
+INFO  09:17:17 Content root path: D:\Fiber\FiberConnection
+INFO  09:17:17 Plan Details are Called
+ERROR 09:17:31 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at FiberConnection.FiberConnection.FiberPlan.GetFiberPlans() in D:\Fiber\FiberConnection\FiberConnection\FiberPlan.cs:line 42
+   at FiberConnection.Repository.FiberPlanRepo.GetFiberPlans() in D:\Fiber\FiberConnection\Repository\FiberPlanRepo.cs:line 23
+   at FiberConnection.Service.FiberPlanServ.GetFiberPlans() in D:\Fiber\FiberConnection\Service\FiberPlanServ.cs:line 24
+   at FiberConnection.Controllers.FiberController.PlanDetails() in D:\Fiber\FiberConnection\Controllers\FiberController.cs:line 24
+   at lambda_method1(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:17:31 An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at FiberConnection.FiberConnection.FiberPlan.GetFiberPlans() in D:\Fiber\FiberConnection\FiberConnection\FiberPlan.cs:line 42
+   at FiberConnection.Repository.FiberPlanRepo.GetFiberPlans() in D:\Fiber\FiberConnection\Repository\FiberPlanRepo.cs:line 23
+   at FiberConnection.Service.FiberPlanServ.GetFiberPlans() in D:\Fiber\FiberConnection\Service\FiberPlanServ.cs:line 24
+   at FiberConnection.Controllers.FiberController.PlanDetails() in D:\Fiber\FiberConnection\Controllers\FiberController.cs:line 24
+   at lambda_method1(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:17:34 Offer Details of 201 is called
+ERROR 09:17:35 An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+ERROR 09:17:35 An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+INFO  09:19:19 Application started. Press Ctrl+C to shut down.
+INFO  09:19:19 Application started. Press Ctrl+C to shut down.
+INFO  09:19:19 Hosting environment: Development
+INFO  09:19:19 Hosting environment: Development
+INFO  09:19:19 Content root path: D:\Fiber\FiberConnection
+INFO  09:19:19 Content root path: D:\Fiber\FiberConnection
+INFO  09:19:19 Plan Details are Called
+INFO  08:26:19 Application started. Press Ctrl+C to shut down.
+INFO  08:26:19 Application started. Press Ctrl+C to shut down.
+INFO  08:26:19 Hosting environment: Development
+INFO  08:26:19 Hosting environment: Development
+INFO  08:26:19 Content root path: D:\Fiber\FiberConnection
+INFO  08:26:19 Content root path: D:\Fiber\FiberConnection
+INFO  08:26:19 Plan Details are Called
+INFO  08:39:24 Application started. Press Ctrl+C to shut down.
+INFO  08:39:24 Application started. Press Ctrl+C to shut down.
+INFO  08:39:24 Hosting environment: Development
+INFO  08:39:24 Hosting environment: Development
+INFO  08:39:24 Content root path: D:\Fiber\FiberConnection
+INFO  08:39:24 Content root path: D:\Fiber\FiberConnection
+INFO  08:39:24 Plan Details are Called
+INFO  08:39:32 Plan Details are Called
+INFO  08:39:35 Plan Details are Called
+INFO  08:39:44 Admin has Taken Control 
+INFO  08:40:46 Application started. Press Ctrl+C to shut down.
+INFO  08:40:46 Application started. Press Ctrl+C to shut down.
+INFO  08:40:46 Hosting environment: Development
+INFO  08:40:46 Hosting environment: Development
+INFO  08:40:46 Content root path: D:\Fiber\FiberConnection
+INFO  08:40:46 Content root path: D:\Fiber\FiberConnection
+INFO  08:40:47 Plan Details are Called
+INFO  08:44:58 Application started. Press Ctrl+C to shut down.
+INFO  08:44:58 Application started. Press Ctrl+C to shut down.
+INFO  08:44:58 Hosting environment: Development
+INFO  08:44:58 Hosting environment: Development
+INFO  08:44:58 Content root path: D:\Fiber\FiberConnection
+INFO  08:44:58 Content root path: D:\Fiber\FiberConnection
+INFO  08:44:58 Plan Details are Called
+INFO  08:45:17 Plan Details are Called
+INFO  08:45:21 Offer Details of 200 is called
+INFO  08:45:25 Plan Details are Called
+INFO  08:46:21 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  08:46:21 Plan Details are Called
+INFO  08:46:25  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  08:46:29 Getting the Status of 1903
+INFO  08:46:30  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  08:46:38 Request Canceling the Status of 1903
+INFO  08:46:40  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  08:46:41 Request Canceling the Status of 1903
+INFO  08:46:44  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  08:46:47 Plan Details are Called
+INFO  08:46:55 Billing the Customer BALASUBRAMANIYAN R with Entertainment of Rs 999
+INFO  08:46:55 Getting Billing Details of BALASUBRAMANIYAN R
+INFO  08:47:09 Connection for the BALASUBRAMANIYAN R Booked of Rs 1049
+INFO  08:47:09 Plan Details are Called
+INFO  08:47:10  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  08:47:13 Request Canceling the Status of 1907
+INFO  08:47:14 Canceling the Status of 1907
+INFO  08:47:14  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  08:47:18 Plan Details are Called
+INFO  07:19:42 Application started. Press Ctrl+C to shut down.
+INFO  07:19:42 Application started. Press Ctrl+C to shut down.
+INFO  07:19:42 Hosting environment: Development
+INFO  07:19:42 Hosting environment: Development
+INFO  07:19:42 Content root path: D:\Fiber\FiberConnection
+INFO  07:19:42 Content root path: D:\Fiber\FiberConnection
+INFO  07:19:42 Plan Details are Called
+INFO  07:19:56 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  07:19:56 Plan Details are Called
+INFO  07:19:59 Billing the Customer BALASUBRAMANIYAN R with Basic of Rs 499
+INFO  07:19:59 Getting Billing Details of BALASUBRAMANIYAN R
+INFO  07:20:06 Connection for the BALASUBRAMANIYAN R Booked of Rs 524
+INFO  07:20:06 Plan Details are Called
+INFO  07:20:08  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  07:20:11 Request Canceling the Status of 1908
+INFO  07:20:12 Canceling the Status of 1908
+INFO  07:20:12  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  07:20:14 Request Canceling the Status of 1908
+INFO  07:20:15  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  07:20:17 Plan Details are Called
+INFO  09:09:09 Application started. Press Ctrl+C to shut down.
+INFO  09:09:09 Application started. Press Ctrl+C to shut down.
+INFO  09:09:09 Hosting environment: Development
+INFO  09:09:09 Hosting environment: Development
+INFO  09:09:09 Content root path: D:\Fiber\FiberConnection
+INFO  09:09:09 Content root path: D:\Fiber\FiberConnection
+INFO  09:09:10 Plan Details are Called
+INFO  09:09:25 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  09:09:25 Plan Details are Called
+INFO  09:09:27 Billing the Customer  with  of Rs 
+INFO  09:09:41  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  09:09:47 Billing the Customer  with  of Rs 
+INFO  09:11:13 Application started. Press Ctrl+C to shut down.
+INFO  09:11:13 Application started. Press Ctrl+C to shut down.
+INFO  09:11:13 Hosting environment: Development
+INFO  09:11:13 Hosting environment: Development
+INFO  09:11:13 Content root path: D:\Fiber\FiberConnection
+INFO  09:11:13 Content root path: D:\Fiber\FiberConnection
+INFO  09:11:13 Plan Details are Called
+INFO  09:11:25 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  09:11:25 Plan Details are Called
+INFO  09:11:27 Billing the Customer  with  of Rs 
+INFO  09:14:35 Application started. Press Ctrl+C to shut down.
+INFO  09:14:35 Application started. Press Ctrl+C to shut down.
+INFO  09:14:35 Hosting environment: Development
+INFO  09:14:35 Hosting environment: Development
+INFO  09:14:35 Content root path: D:\Fiber\FiberConnection
+INFO  09:14:35 Content root path: D:\Fiber\FiberConnection
+INFO  09:14:35 Plan Details are Called
+INFO  09:14:46 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  09:14:47 Plan Details are Called
+INFO  09:14:51 Billing the Customer  with  of Rs 
+INFO  09:16:51 Application started. Press Ctrl+C to shut down.
+INFO  09:16:51 Application started. Press Ctrl+C to shut down.
+INFO  09:16:51 Hosting environment: Development
+INFO  09:16:51 Hosting environment: Development
+INFO  09:16:51 Content root path: D:\Fiber\FiberConnection
+INFO  09:16:51 Content root path: D:\Fiber\FiberConnection
+INFO  09:16:52 Plan Details are Called
+INFO  09:32:47 Application started. Press Ctrl+C to shut down.
+INFO  09:32:47 Application started. Press Ctrl+C to shut down.
+INFO  09:32:47 Hosting environment: Development
+INFO  09:32:47 Hosting environment: Development
+INFO  09:32:47 Content root path: D:\Fiber\FiberConnection
+INFO  09:32:47 Content root path: D:\Fiber\FiberConnection
+INFO  09:32:48 Plan Details are Called
+INFO  09:34:49 Application started. Press Ctrl+C to shut down.
+INFO  09:34:49 Application started. Press Ctrl+C to shut down.
+INFO  09:34:49 Hosting environment: Development
+INFO  09:34:49 Hosting environment: Development
+INFO  09:34:49 Content root path: D:\Fiber\FiberConnection
+INFO  09:34:49 Content root path: D:\Fiber\FiberConnection
+INFO  09:34:49 Plan Details are Called
+INFO  09:35:38 Plan Details are Called
+INFO  09:35:47 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  09:35:47 Plan Details are Called
+INFO  09:36:16 Billing the Customer  with  of Rs 
+INFO  09:39:11 Application started. Press Ctrl+C to shut down.
+INFO  09:39:11 Application started. Press Ctrl+C to shut down.
+INFO  09:39:11 Hosting environment: Development
+INFO  09:39:11 Hosting environment: Development
+INFO  09:39:11 Content root path: D:\Fiber\FiberConnection
+INFO  09:39:11 Content root path: D:\Fiber\FiberConnection
+INFO  09:39:12 Plan Details are Called
+INFO  09:39:28 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  09:39:28 Plan Details are Called
+INFO  09:39:30 Billing the Customer  with  of Rs 
+INFO  09:39:43 Billing has been booked
+INFO  09:39:43 Plan Details are Called
+INFO  09:39:45  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  09:39:50 Getting the Status of 1909
+INFO  09:39:54  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  09:39:55 Request Canceling the Status of 1909
+INFO  09:39:57 Canceling the Status of 1909
+INFO  09:39:57  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  09:40:00 Plan Details are Called
+INFO  09:40:02 Billing the Customer  with  of Rs 
+INFO  09:40:09 Billing has been booked
+INFO  09:40:09 Plan Details are Called
+INFO  09:40:12  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  09:40:14 Request Canceling the Status of 1910
+INFO  09:40:16 Canceling the Status of 1910
+INFO  09:40:16  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  09:40:19 Request Canceling the Status of 1903
+INFO  09:40:20 Canceling the Status of 1903
+INFO  09:40:20  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  10:15:13 Application started. Press Ctrl+C to shut down.
+INFO  10:15:13 Application started. Press Ctrl+C to shut down.
+INFO  10:15:13 Hosting environment: Development
+INFO  10:15:13 Hosting environment: Development
+INFO  10:15:13 Content root path: D:\Fiber\FiberConnection
+INFO  10:15:13 Content root path: D:\Fiber\FiberConnection
+INFO  10:15:14 Plan Details are Called
+ERROR 10:15:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'FiberConnection.Service.ICustomerServ`1[FiberConnection.FiberConnection.Customer]' while attempting to activate 'FiberConnection.Controllers.CustomerController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method121(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:15:21 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'FiberConnection.Service.ICustomerServ`1[FiberConnection.FiberConnection.Customer]' while attempting to activate 'FiberConnection.Controllers.CustomerController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method121(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|24_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Session.SessionMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.MigrationsEndPointMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:15:23 An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+ERROR 10:15:23 An exception occurred while calculating the database error page content. Skipping display of the database error page.
+System.InvalidOperationException: StatusCode cannot be set because the response has already started.
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.ThrowResponseAlreadyStartedException(String name)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.Microsoft.AspNetCore.Http.Features.IHttpResponseFeature.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_StatusCode(Int32 value)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.Views.DatabaseErrorPage.ExecuteAsync()
+   at Microsoft.Extensions.RazorViews.BaseView.ExecuteAsync(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.DatabaseDeveloperPageExceptionFilter.HandleExceptionAsync(ErrorContext errorContext, Func`2 next)
+INFO  10:19:11 Application started. Press Ctrl+C to shut down.
+INFO  10:19:11 Application started. Press Ctrl+C to shut down.
+INFO  10:19:11 Hosting environment: Development
+INFO  10:19:11 Hosting environment: Development
+INFO  10:19:11 Content root path: D:\Fiber\FiberConnection
+INFO  10:19:11 Content root path: D:\Fiber\FiberConnection
+INFO  10:19:11 Plan Details are Called
+INFO  10:19:25 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  10:19:25 Plan Details are Called
+INFO  10:19:27 BALASUBRAMANIYAN R has been Logged Out
+INFO  10:19:27 Plan Details are Called
+INFO  10:44:39 Application started. Press Ctrl+C to shut down.
+INFO  10:44:39 Application started. Press Ctrl+C to shut down.
+INFO  10:44:39 Hosting environment: Development
+INFO  10:44:39 Hosting environment: Development
+INFO  10:44:39 Content root path: D:\Fiber\FiberConnection
+INFO  10:44:39 Content root path: D:\Fiber\FiberConnection
+INFO  10:44:40 Plan Details are Called
+INFO  10:44:48 Offer Details of 200 is called
+INFO  11:12:49 Application started. Press Ctrl+C to shut down.
+INFO  11:12:49 Application started. Press Ctrl+C to shut down.
+INFO  11:12:49 Hosting environment: Development
+INFO  11:12:49 Hosting environment: Development
+INFO  11:12:49 Content root path: D:\Fiber\FiberConnection
+INFO  11:12:49 Content root path: D:\Fiber\FiberConnection
+INFO  11:12:50 Plan Details are Called
+INFO  11:13:10 Login Failed with the credential balasb00714@gmail.com and ragguraman
+INFO  11:13:18 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  11:13:18 Plan Details are Called
+INFO  11:13:19  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  11:13:23 Plan Details are Called
+INFO  11:13:26 Billing the Customer  with  of Rs 
+INFO  11:13:36 Billing has been booked
+INFO  11:13:36 Plan Details are Called
+INFO  11:13:39  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  11:13:53 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  11:13:53 Plan Details are Called
+INFO  11:13:56  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  11:29:48 Getting the Status of 1911
+INFO  11:29:52  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  11:29:53 Request Canceling the Status of 1911
+INFO  11:29:54  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  11:29:58 Request Canceling the Status of 1911
+INFO  12:04:24 Application started. Press Ctrl+C to shut down.
+INFO  12:04:24 Application started. Press Ctrl+C to shut down.
+INFO  12:04:24 Hosting environment: Development
+INFO  12:04:24 Hosting environment: Development
+INFO  12:04:24 Content root path: D:\Fiber\FiberConnection
+INFO  12:04:24 Content root path: D:\Fiber\FiberConnection
+INFO  12:04:24 Plan Details are Called
+INFO  12:08:24 Plan Details are Called
+INFO  12:08:26 Offer Details of 200 is called
+INFO  12:08:29 Plan Details are Called
+INFO  12:08:31 Offer Details of 200 is called
+INFO  12:08:32 Plan Details are Called
+INFO  01:17:33 Application started. Press Ctrl+C to shut down.
+INFO  01:17:33 Application started. Press Ctrl+C to shut down.
+INFO  01:17:33 Hosting environment: Development
+INFO  01:17:33 Hosting environment: Development
+INFO  01:17:33 Content root path: D:\Fiber\FiberConnection
+INFO  01:17:33 Content root path: D:\Fiber\FiberConnection
+INFO  01:17:34 Plan Details are Called
+INFO  01:17:53 Plan Details are Called
+INFO  01:18:05 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  01:18:05 Plan Details are Called
+INFO  01:18:09  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  01:18:12 Getting the Status of 1911
+INFO  01:18:14  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  01:18:18 Request Canceling the Status of 1911
+INFO  01:18:20 Canceling the Status of 1911
+INFO  01:18:20  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  01:18:23 Plan Details are Called
+INFO  01:18:26 Billing the Customer  with  of Rs 
+INFO  01:18:48 Billing has been booked
+INFO  01:18:48 Plan Details are Called
+INFO  01:18:52  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  01:18:59 Request Canceling the Status of 1912
+INFO  01:19:03 BALASUBRAMANIYAN R has been Logged Out
+INFO  01:19:03 Plan Details are Called
+INFO  01:19:09 Admin has Taken Control 
+INFO  01:20:32 Application started. Press Ctrl+C to shut down.
+INFO  01:20:32 Application started. Press Ctrl+C to shut down.
+INFO  01:20:32 Hosting environment: Development
+INFO  01:20:32 Hosting environment: Development
+INFO  01:20:32 Content root path: D:\Fiber\FiberConnection
+INFO  01:20:32 Content root path: D:\Fiber\FiberConnection
+INFO  01:20:32 Plan Details are Called
+INFO  01:20:52 BALASUBRAMANIYAN R with the id 101 has been Logged In
+INFO  01:20:52 Plan Details are Called
+INFO  01:20:53  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  01:21:03 Getting the Status of 1912
+INFO  01:21:06  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  01:21:09 Plan Details are Called
+INFO  01:21:11 Offer Details of 200 is called
+INFO  01:21:17 Plan Details are Called
+INFO  01:21:21 Billing the Customer  with  of Rs 
+INFO  01:21:32 Billing has been booked
+INFO  01:21:32 Plan Details are Called
+INFO  01:21:34  Status of Connection as been shown for BALASUBRAMANIYAN R
+INFO  01:21:41 Admin has Taken Control 
+INFO  01:21:50 BALASUBRAMANIYAN R has been Logged Out
+INFO  01:21:50 Plan Details are Called

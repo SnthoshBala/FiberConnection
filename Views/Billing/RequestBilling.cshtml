@@ -1,0 +1,93 @@
+﻿@model FiberConnection.FiberConnection.Billing
+
+@{
+    ViewData["Title"] = "RequestBilling";
+}
+
+<style>
+    .c1 {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+    }
+</style>
+<h2 class="text-light">Billing and Payment</h2>
+
+<hr class="bg-danger" />
+<div class="card border-light bg-danger mb-3 c1" style="max-width: 30rem;">
+    <div class="card-body text-danger">
+        <div class="card-header text-light">Fiber Connection Bill</div>
+        <div class="row">
+            <form asp-action="RequestBilling" class="c1">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="BillingNumber" />
+                <input type="hidden" asp-for="PlanId" />
+                <input type="hidden" asp-for="CustomerId" />
+                <div class="form-group">
+                    <label asp-for="CustomerName" class="control-label text-dark">Name</label>
+                    <input asp-for="CustomerName" class="form-control" />
+                    <span asp-validation-for="CustomerName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DateOfBirth" class="control-label text-dark">Date of Birth</label>
+                    <input asp-for="DateOfBirth" class="form-control" />
+                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CustomerAddress" class="control-label text-dark">Address</label>
+                    <input asp-for="CustomerAddress" class="form-control" />
+                    <span asp-validation-for="CustomerAddress" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CustomerPhoneNumber" class="control-label text-dark">Phone Number</label>
+                    <input asp-for="CustomerPhoneNumber" class="form-control" />
+                    <span asp-validation-for="CustomerPhoneNumber" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CustomerAadharNo" class="control-label text-dark">Aadhar Number</label>
+                    <input asp-for="CustomerAadharNo" class="form-control" />
+                    <span asp-validation-for="CustomerAadharNo" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CustomerMailId" class="control-label text-dark">Mail Id</label>
+                    <input asp-for="CustomerMailId" class="form-control" />
+                    <span asp-validation-for="CustomerMailId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PlanName" class="control-label text-dark">Plan</label>
+                    <input asp-for="PlanName" class="form-control" readonly />
+                    <span asp-validation-for="PlanName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PlanPrice" class="control-label text-dark">Price</label>
+                    <input asp-for="PlanPrice" class="form-control" readonly />
+                    <span asp-validation-for="PlanPrice" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Tax" class="control-label text-dark">Tax</label>
+                    <input asp-for="Tax" class="form-control" readonly />
+                    <span asp-validation-for="Tax" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Total" class="control-label text-dark">Total Cost</label>
+                    <input asp-for="Total" class="form-control" readonly />
+                    <span asp-validation-for="Total" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PaymentMethod" class="control-label text-dark">Payment Mode</label>
+                    <input asp-for="PaymentMethod" class="form-control" />
+                    <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="BookedDate" class="control-label text-dark">Booking Date</label>
+                    <input asp-for="BookedDate" class="form-control" readonly />
+                    <span asp-validation-for="BookedDate" class="text-danger"></span>
+                </div>
+                <div class="form-group c1">
+                    <input type="submit" value="Buy" class="btn btn-light text-danger" /><span> <input type="button" value="Cancel" class="btn btn-light text-danger" /></span>
+                </div>
+            </form>
+        </div>
+    </div>
+
+
